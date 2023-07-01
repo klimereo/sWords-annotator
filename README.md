@@ -1,0 +1,1 @@
+# sWords-annotator
