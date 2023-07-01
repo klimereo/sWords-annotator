@@ -23,11 +23,11 @@ The main features of the project include:
 
 ### DataProcessor Class
 
-The **DataProcessor** class handles the processing of input data for annotation. It provides means to simplify the dataset and convert it into prompt entries suitable for ChatGPT.
+The `DataProcessor` class handles the processing of input data for annotation. It provides means to simplify the dataset and convert it into prompt entries suitable for ChatGPT.
 
 #### Initialization
 
-To initialize the DataProcessor class, provide the path to the input file:
+To initialize the `DataProcessor` class, provide the path to the input file:
 
 ```
 from utils import DataProcessor
@@ -38,7 +38,7 @@ data_processor = DataProcessor(input_path)
 
 #### simplify_df Method
 
-The simplify_df method simplifies the input dataframe by selecting relevant columns and saves it to the specified output path.
+The `simplify_df` method simplifies the input dataframe by selecting relevant columns and saves it to the specified output path:
 
 ```
 output_path = "path/to/output/simplified_df.csv"
@@ -47,7 +47,7 @@ simplified_df = data_processor.simplify_df(output_path)
 
 #### csv2prompt Method
 
-The csv2prompt method converts the input dataframe to prompt entries by extracting specific columns, saves the entries as both CSV and TXT files, and returns the extracted rows.
+The `csv2prompt` method converts the input dataframe to prompt entries by extracting specific columns, saves the entries as both CSV and TXT files, and returns the extracted rows:
 
 ```
 output_path = "path/to/output/prompt_entries"
@@ -56,11 +56,11 @@ extracted_rows = data_processor.csv2prompt(output_path)
 
 ### DataReader Class
 
-The DataReader class provides utility methods for reading files.
+The `DataReader` class provides utility methods for reading files.
 
 #### read_file Method
 
-The read_file method reads the content of a file and returns it as a string.
+The `read_file` method reads the content of a file and returns it as a string:
 
 ```
 file_path = "path/to/file.txt"
@@ -69,7 +69,7 @@ content = DataReader.read_file(file_path)
 
 #### read_lines Method
 
-The read_lines method reads the content of a file and returns it as a list of lines.
+The `read_lines` method reads the content of a file and returns it as a list of lines:
 
 ```
 file_path = "path/to/file.txt"
@@ -78,11 +78,11 @@ lines = DataReader.read_lines(file_path)
 
 ### CostCalculator Class
 
-The CostCalculator class calculates the cost of tokens used in the ChatGPT API response.
+The `CostCalculator` class calculates the cost of tokens used in the ChatGPT API response.
 
 #### Initialization
 
-To initialize the CostCalculator class, provide the response from the ChatGPT API:
+To initialize the `CostCalculator` class, provide the response from the ChatGPT API:
 
 ```
 response = {
@@ -93,7 +93,7 @@ cost_calculator = CostCalculator(response)
 
 #### calculate_input_tokens Method
 
-The calculate_input_tokens method calculates the total input tokens used.
+The `calculate_input_tokens` method calculates the total input tokens used.
 
 ```
 input_tokens = cost_calculator.calculate_input_tokens()
@@ -101,7 +101,7 @@ input_tokens = cost_calculator.calculate_input_tokens()
 
 #### calculate_output_tokens Method
 
-The calculate_output_tokens method calculates the total output tokens used.
+The `calculate_output_tokens` method calculates the total output tokens used.
 
 ```
 output_tokens = cost_calculator.calculate_output_tokens()
@@ -109,7 +109,7 @@ output_tokens = cost_calculator.calculate_output_tokens()
 
 #### calculate_input_cost Method
 
-The calculate_input_cost method calculates the cost of input tokens.
+The `calculate_input_cost` method calculates the cost of input tokens.
 
 ```
 input_cost = cost_calculator.calculate_input_cost()
@@ -117,7 +117,7 @@ input_cost = cost_calculator.calculate_input_cost()
 
 #### calculate_output_cost Method
 
-The calculate_output_cost method calculates the cost of output tokens.
+The `calculate_output_cost` method calculates the cost of output tokens.
 
 ```
 output_cost = cost_calculator.calculate_output_cost()
@@ -125,7 +125,7 @@ output_cost = cost_calculator.calculate_output_cost()
 
 #### calculate_total_cost Method
 
-The calculate_total_cost method calculates the total cost of input and output tokens.
+The `calculate_total_cost` method calculates the total cost of input and output tokens.
 
 ```
 total_cost = cost_calculator.calculate_total_cost()
@@ -133,7 +133,7 @@ total_cost = cost_calculator.calculate_total_cost()
 
 #### print_cost_information Method
 
-The print_cost_information method prints the detailed cost information.
+The `print_cost_information` method prints the detailed cost information.
 
 ```
 cost_calculator.print_cost_information()
