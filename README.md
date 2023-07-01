@@ -207,6 +207,12 @@ project/
     │   └── ...
 
 ```
+## Known Limitations
+
+1. Proper names are not always recognized. Either the prompt has to be improved in that regard, or the ChatGPT output should be filtered through a Polish NER (Named Entity Recognizer). The project directory contains two NER dictionaries (downloaded from the github repository  `sdadas/polish-nlp-resources`), one for place names and one for person names (including non-Polish names as well).
+
+2. Sometimes OpenAI API service cannot process the call due to congestion. That is why I recommend fragmenting the original dataframe into smaller parts before executing the code. Although batches help with the data loss problem, it might be difficult to deal with regular API call breaks in case of massive dataframes.
+
 
 ## License
 
