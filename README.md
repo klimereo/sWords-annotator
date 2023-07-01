@@ -6,6 +6,7 @@
 - [Utilities](#utilities)
 - [Usage](#usage)
 - [File Structure](#file-structure)
+- [License](#license)
 
 
 ## Project Description
@@ -206,3 +207,7 @@ project/
     │   └── ...
 
 ```
+
+## License
+
+The project is licensed under the [MIT License](LICENSE).
