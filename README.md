@@ -199,12 +199,11 @@ project/
 │       └── gpt_entries.txt
 |       └── gpt_entries.csv
 └── target/
-    ├── gpt_key_meanings/
-    │   ├── KM-Batch0.txt
-    |   ├── SP-Batch0.txt
-    │   ├── KM-Batch1.txt
-    |   ├── SP-Batch1.txt
-    │   └── ...
+    ├── KM-Batch0.txt
+    ├── SP-Batch0.txt
+    ├── KM-Batch1.txt
+    ├── SP-Batch1.txt
+    └── ...
 
 ```
 ## Known Limitations
