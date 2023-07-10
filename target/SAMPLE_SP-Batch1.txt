@@ -1,0 +1,80 @@
+Child: Arra; Parent: Papuga
+Child: Haha; Parent: śmiać się 
+Child: Hihi; Parent: śmiech 
+Child: Ty; Parent: Ja (Józio), pokazanie palcem na siebie
+Child: Ziuzia; Parent: Zuzia
+Child: Dziadziu; Parent: Dziadek
+Child: Dziadzio; Parent: Dziadek
+Child: Muma; Parent: Brak
+Child: Ciucia; Parent: Ciuchcia
+Child: Miam mniam; Parent: Smaczne 
+Child: Tadziu; Parent: Brak
+Child: Badziu; Parent: Brak
+Child: Lucia; Parent: Brak
+Child: Lula; Parent: Brak
+Child: Piła ; Parent: Piła 
+Child: Dudu; Parent: Drabina
+Child: Ma; Parent: Mieć, posiadać 
+Child: Ej; Parent: Hej
+Child: Łiła; Parent: Brak
+Child: Lula; Parent: Rura
+Child: Luli luli laj; Parent: Lu la lu
+Child: Nina; Parent: Nina (kuzynka) 
+Child: Haj; Parent: Hak
+Child: Dudi; Parent: Duży 
+Child: Dyda; Parent: Dynia
+Child: Duzi; Parent: Duży 
+Child: Duzi; Parent: Duży 
+Child: Blu; Parent: Blue niebieski 
+Child: Pibu; Parent: Pikabu
+Child: Pla Pla Pla ; Parent: Hlap Hlap hlap
+Child: Pociąg ; Parent: Pociąg 
+Child: Kop; Parent: Kot
+Child: Pes; Parent: Pies
+Child: Fafa; Parent: Żyrafa 
+Child: Soń; Parent: Słoń 
+Child: Miś ; Parent: Miś
+Child: Myś; Parent: Mysz
+Child: Bzi; Parent: Owad 
+Child: Koko; Parent: Kura
+Child: Bocian; Parent: Bocian 
+Child: Dom; Parent: Dom
+Child: Piciu; Parent: Picie
+Child: Buty; Parent: Buty
+Child: Łoweł; Parent: Rower
+Child: Manian; Parent: Motor
+Child: Sacja; Parent: Stacja
+Child: Kask; Parent: Kask
+Child: Bacia; Parent: Babcia
+Child: Dziadzia; Parent: Dziadek 
+Child: Ela; Parent: Hela
+Child: Awa; Parent: Ewa
+Child: Manin; Parent: Marcin
+Child: Ania; Parent: Hania
+Child: Emem; Parent: Emil
+Child: Ciś; Parent: Krzyś 
+Child: Filipip; Parent: Filip
+Child: Buzia; Parent: Burza
+Child: Desc; Parent: Deszcz
+Child: Ziemba; Parent: Zęby
+Child: Ciocia; Parent: Ciocia
+Child: Cicia; Parent: Cycuś
+Child: Nis; Parent: Nos
+Child: Oto; Parent: Oko
+Child: śtopa; Parent: Stopa
+Child: Opsi; Parent: Spanie 
+Child: Komp komp ; Parent: Kąpiel 
+Child: Tola; Parent: Tola
+Child: Tosia; Parent: Tosia
+Child: Adam; Parent: Adam
+Child: Gla; Parent: Gra
+Child: Tań; Parent: Taniec ,muzyka
+Child: Tań; Parent: Taniec ,muzyka
+Child: Ziupa; Parent: Zupa
+Child: Kawa; Parent: Kawa
+Child: Ziaba; Parent: Żaba
+Child: Amam; Parent: Jedzenie
+Child: Sapam; Parent: Samolot
+Child: Pan; Parent: Pan
+Child: Dzidzia; Parent: Dziecko 
+Child: Tinta; Parent: Zegar 

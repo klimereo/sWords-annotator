@@ -1,0 +1,80 @@
+Child: Mama; Parent: Mama
+Child: Lala; Parent: Lalka , dziewczynka
+Child: Lala; Parent: Lalka , dziewczynka
+Child: Am; Parent: Jeść 
+Child: Ań; Parent: Ania
+Child: Baba; Parent: Babcia
+Child: Bam; Parent: Upadek, uderzenie
+Child: Be; Parent: Brudno
+Child: Beee; Parent: Owca
+Child: Brum; Parent: Auto
+Child: Ci ci; Parent: Ciocia
+Child: Da; Parent: Daj
+Child: Du; Parent: Królik Bing
+Child: Dum dum; Parent: Bidon
+Child: Dzia dzia; Parent: Dziadek
+Child: Dżu dżu; Parent: Drzewo
+Child: Hau hau; Parent: Pies
+Child: Kfa kfa; Parent: Kaczka
+Child: Meee; Parent: Owca
+Child: Miau; Parent: Kot
+Child: Ny ny; Parent: Spać 
+Child: Tata; Parent: Tata
+Child: Tu tu; Parent: Słoń 
+Child: Wrum; Parent: Motor
+Child: Ziii; Parent: Zimno
+Child: Ziuuu; Parent: Zjeżdżalnia 
+Child: Dadada; Parent: Iść, pójść 
+Child: Din din; Parent: Rower
+Child: Io io; Parent: Osioł 
+Child: La a; Parent: Lama
+Child: łaaaa; Parent: Lew, tygrys
+Child: łaaaa; Parent: Lew, tygrys
+Child: Lalala; Parent: śpiewać 
+Child: łe; Parent: Płakać 
+Child: Łi łi; Parent: Policja, karetka, straż 
+Child: Łi łi; Parent: Policja, karetka, straż 
+Child: Łi łi; Parent: Policja, karetka, straż 
+Child: Nu nu; Parent: Lody
+Child: Pa; Parent: Pan, pani
+Child: Pa; Parent: Pan, pani
+Child: Pf; Parent: Kupa
+Child: Si; Parent: Sikać 
+Child: Siup; Parent: Pić 
+Child: Sssss; Parent: Wąż 
+Child: Ti ta; Parent: Zegar
+Child: Ał; Parent: Rana, boli, uderzyć się 
+Child: Ał; Parent: Rana, boli, uderzyć się 
+Child: Ał; Parent: Rana, boli, uderzyć się 
+Child: Bam bam; Parent: Klocki, bębenek 
+Child: Bam bam; Parent: Klocki, bębenek 
+Child: Ci; Parent: Ja (Józek) 
+Child: Ciii; Parent: Cicho
+Child: Gę gę; Parent: Gęś 
+Child: Ooooo; Parent: Zdziwienie 
+Child: Gru gru; Parent: Gołąb 
+Child: Gyl gyl; Parent: Gilgotki 
+Child: Kra kra; Parent: Wrona
+Child: Ne; Parent: Nie
+Child: Ta; Parent: Tak
+Child: Tyr tyr; Parent: Traktor 
+Child: Cia; Parent: Kroić 
+Child: Ziu; Parent: Latać 
+Child: Ciiiiii; Parent: Ciepłe, gorące 
+Child: Ciiiiii; Parent: Ciepłe, gorące 
+Child: Łała; Parent: Jaja
+Child: Bziu bziu; Parent: Brak
+Child: Bum; Parent: Wybuch, petarda
+Child: Daba; Parent: Brak 
+Child: Bama; Parent: Brak
+Child: Badada; Parent: Bandyta
+Child: Diba; Parent: Brak
+Child: Gła gła; Parent: Grabić 
+Child: Iiii; Parent: Piszczeć
+Child: Tutu; Parent: Trąbka 
+Child: Ti tit; Parent: Trąbić 
+Child: Bam bam; Parent: Klocki
+Child: Iiiiiiiii; Parent: Piszczenie 
+Child: Dzi; Parent: Dzik
+Child: Mamu; Parent: Brak
+Child: Dadu; Parent: Brak
