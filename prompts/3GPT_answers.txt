@@ -1,0 +1,14 @@
+Here are my answers along with the reasoning behind them:
+
+1. "WATERMELON": Since the parent's description consists of only one word, which is the English translation of "arbuz", the key-meaning is "WATERMELON".
+2. "STOMPING": This seems to be an onomatopoeic word based on the repetition of "tup", indicating a stomping sound.
+3. "PLACE": "Warszawa" is a place name, so the key-meaning is "PLACE".
+4. "PERSON": Both "Ania" and "Hania" are person names, so the key-meaning is "PERSON".
+5. "FOOD": The parent's explanation consists of only one word, which is the English translation of "Jedzenie", indicating that the key-meaning is "FOOD".
+6. "SWING": The child's utterance "buju buju" seems to refer to both the object "swing" and the action of "swinging".
+7. "TASTY": The child's utterance "Mniam" is used to express something tasty or good, so the key-meaning is "TASTY".
+8. "BATH/SPLASH": Given the child's utterance "lap lap" and the parent's explanations, both "chlapać" (to splash) and "kąpać się" (to bathe) are possible key-meanings.
+9. "SLIDE": The child uses the word "ziu" to point to both the action of sliding ("zjeżdżać") and the object "slide" ("zjeżdżalnia") in the parent's explanation.
+10. "PERSON": "Paulina" is a person's name, so the key-meaning must be "PERSON".
+
+

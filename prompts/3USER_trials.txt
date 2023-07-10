@@ -1,0 +1,16 @@
+That's correct. Let's practice with some source text cases:
+
+1. "Child: 'ata'; Parent: 'arbuz'"
+2. "Child: 'tup'; Parent: 'tup tup'"
+3. "Child: 'warwa"; Parent: 'Warszawa'"
+4. "Child: 'Ania'; Parent: 'Ania/Hania'"
+5. "Child: 'Mniam'; Parent: 'Jedzenie'"
+6. "Child: 'buju buju'; Parent: 'Huśtawka, bujać się'"
+7. "Child: 'Mniam'; Parent: 'Coś dobrego, pokazuje jakie dobre'"
+8. "Child: 'lap lap'; Parent: 'Chlapać, kąpać się'"
+9."Child: 'ziu'; Parent: 'Zjeżdżalnia, zjeżdżać, plac zabaw'"
+10. "Child: 'Poli'; Parent: 'Paulina'"
+
+
+
+

@@ -1,0 +1,1 @@
+It is clear that I should rely on both the parent's and child's utterances when extracting the key-meaning. The parent's explanation provides crucial information, while the child's utterance helps in choosing the most appropriate key-meaning among the alternatives. I will take both factors into consideration during the extraction process. 

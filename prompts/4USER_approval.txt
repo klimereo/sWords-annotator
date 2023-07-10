@@ -1,0 +1,5 @@
+Yes, your answers were correct. 
+
+Now I will provide you with additional source texts. Please provide me with only the key-meanings, consisting of only one or two words, without any additional text or reasoning. Most importantly, the key-meanings have to be in English! Also do not forget to encode person names simply as "PERSON", without including the actual name. 
+
+All your answers should have the following format: "KM: X"

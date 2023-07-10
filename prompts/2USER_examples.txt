@@ -1,0 +1,12 @@
+ Here are some example cases:
+ 
+1. In some cases, the source text consists of a single word in Polish for both the child's utterance and the parent's explanation. For example: "Child: 'Kaka'; Parent: 'Wrona'". In this case, the key-meaning we want to extract is simply "CROW", which is the English translation of the parent's explanation of what "kaka" means in the child's language.
+
+2. Sometimes the source text contains a couple of words without any particular structure. For instance: "Child: 'Bum'; 'Wybuch, petarda'". The key-meaning we aim to extract in this case is "FIREWORKS". Another example is: "Child: 'Kuku'; Parent: 'Owoce, kukurydza'". Here, the key-meaning should be "CORN" as the child's utterance, "kuku", resembles the word "kukurydza" (corn). In some cases, there may be multiple valid options. For instance: "Child: 'bzzzz'; Parent: 'Mucha/pszczoła'". The correct key-meaning in this case would be "BEE/FLY" as child's utterance is neither close to mucha nor pszczoła. In such cases, both words have to be included.
+
+3. There are instances where the source text contains phrases with structure or incomplete sentences. For example: "Child: 'baaaaaa'; Parent: 'baaaardzo duże auto'". In this case, the key-meaning we want to extract is "CAR". Another significant example is: "Child: 'tumtum'; Parent: 'stuknąć się kubkiem'". Here, the child's utterance "tumtum" is not directly related to the key-meaning. Then we consider the parent's explanation of "stuknąć się kubkiem" (knocking with a cup), and the appropriate key-meaning would be "TAP" or "KNOCK".
+
+4. Also, the source text might contain a person's name (typically Polish names or their diminutives) or a place name. For example: "Child: 'Ania'; Parent: 'Einstein'" or "Child: 'Sonina'; Parent: 'Sonina (miejscowość)'". In these cases, the key-meaning should not be the name itself. For the first example, the key-meaning would simply be "PERSON" and not "EINSTEIN". In the second example, the key-meaning would be "PLACE" and not "SONINA".
+
+Also, it's worth noting that the parent's explanation can be in English, and we should still consider it during the key-meaning extraction process.
+
